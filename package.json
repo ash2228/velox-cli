@@ -1,0 +1,16 @@
+{
+  "name": "velox-cli",
+  "version": "0.2.3",
+  "bin": {
+    "velox": "./bin/velox.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node ./bin/velox.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^11.0.0"
+  }
+}
