@@ -1,5 +1,5 @@
 {
-  "name": "velox-cli",
+  "name": "velox3d",
   "version": "0.2.3",
   "bin": {
     "velox": "./bin/velox.js"
