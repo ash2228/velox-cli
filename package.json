@@ -12,5 +12,28 @@
   "dependencies": {
     "chalk": "^5.0.0",
     "commander": "^11.0.0"
-  }
+  },
+  "keywords": [
+    "threejs",
+    "three.js",
+    "react-three-fiber",
+    "r3f",
+    "3d",
+    "webgl",
+    "velox3d",
+    "scene",
+    "renderer",
+    "camera",
+    "threejs-utils",
+    "orbitcontrols",
+    "threejs-starter",
+    "threejs-boilerplate",
+    "javascript-3d",
+    "threejs-components",
+    "minimal-threejs",
+    "threejs-library",
+    "threejs-scaffold"
+  ],
+  "author": "kratosmort",
+  "license": "MIT"
 }
